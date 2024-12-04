@@ -1,4 +1,8 @@
-/* book.c */
+/*
+* BOOK MANAGEMENT SYSTEM Ver 0.1
+* 작성자 : 신예랑
+* 내  용: 도서 관리 시스템 ver 0.1(C스타일 코딩, UI o)
+*/
 
 #include "Book.h"
 #include<stdio.h>
